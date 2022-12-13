@@ -4,7 +4,9 @@ This repository stores datasets for testing workflows and information about the 
 
 ## Repository Structure
 
-Each test dataset is contained within an individual directory, and in that directory is a README that describes:
+Each test dataset is contained within an individual directory.
+If the test dataset is associated with a specific workflow, the directory is named for that workflow.
+Each directory contains a README that describes:
 1. The purpose or intended use cases for the test dataset
 2. How the test dataset was generated
 3. Information and location of the full-sized dataset from which the test dataset was generated
