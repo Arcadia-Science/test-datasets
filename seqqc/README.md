@@ -1,5 +1,5 @@
 This repository holds the test dataset for the [seqqc pipeline](https://github.com/Arcadia-Science/seqqc).
-The dataset is composed of three Sequence Read Archive samples, all of which were sequenced from *Escherichia coli* strain DSM 30083=JCM 1649=ATCC 11775
+The dataset is composed of three Sequence Read Archive samples, all of which were sequenced from *Escherichia coli* strain DSM 30083=JCM 1649=ATCC 11775.
 We downloaded FASTQ files from the European Nucleotide Archive and then subsampled using the code below.
 
 Code to download:
