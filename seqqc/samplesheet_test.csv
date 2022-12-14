@@ -1,4 +1,4 @@
 sample,fastq_1,fastq_2
-SRR8528939,SRR8528939_10k.fq.gz,
-SRR11550236,SRR11550236_1_1k.fq.gz,
-SRR3927310,SRR3927310_1_10k.fq.gz,SRR3927310_2_10k.fq.gz
+SRR8528939,https://github.com/Arcadia-Science/test-datasets/raw/main/seqqc/SRR8528939_10k.fq.gz,
+SRR11550236,https://github.com/Arcadia-Science/test-datasets/raw/main/seqqc/SRR11550236_1_1k.fq.gz,
+SRR3927310,https://github.com/Arcadia-Science/test-datasets/raw/main/seqqc/SRR3927310_1_10k.fq.gz,https://github.com/Arcadia-Science/test-datasets/raw/main/seqqc/SRR3927310_2_10k.fq.gz
