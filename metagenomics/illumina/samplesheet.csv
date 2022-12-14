@@ -1,4 +1,3 @@
 ﻿sample,fastq_1,fastq_2
 comm_1,https://github.com/Arcadia-Science/test-datasets/raw/main/metagenomics/illumina/comm_1_subsampled_1.fq.gz,https://github.com/Arcadia-Science/test-datasets/raw/main/metagenomics/illumina/comm_1_subsampled_2.fq.gz
 vir_1,https://github.com/Arcadia-Science/test-datasets/raw/main/metagenomics/illumina/vir_1_subsampled_1.fq.gz,https://github.com/Arcadia-Science/test-datasets/raw/main/metagenomics/illumina/vir_1_subsampled_2.fq.gz
-
