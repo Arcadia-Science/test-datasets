@@ -1,0 +1,7 @@
+species,file,taxonomy,shallow,broad,mode,uniprot,mcl_test
+Entamoeba_histolytica,https://github.com/Arcadia-Science/test-datasets/raw/main/phylorthology/Entamoeba_histolytica-test-proteome.fasta,Amoebozoa,eukaryota_odb10,eukaryota_odb10,proteins,true,false
+Diacronema_lutheri,https://github.com/Arcadia-Science/test-datasets/raw/main/phylorthology/Diacronema_lutheri-test-proteome.fasta,Haptophyta,eukaryota_odb10,eukaryota_odb10,proteins,true,true
+Giardia_intestinalis,https://github.com/Arcadia-Science/test-datasets/raw/main/phylorthology/Giardia_intestinalis-test-proteome.fasta,Fornicata,eukaryota_odb10,eukaryota_odb10,proteins,true,true
+Porphyridium_purpureum,https://github.com/Arcadia-Science/test-datasets/raw/main/phylorthology/Porphyridium_purpureum-test-proteome.fasta,Rhodophyta,eukaryota_odb10,eukaryota_odb10,proteins,true,true
+Saccharomyces_cerevisiae,https://github.com/Arcadia-Science/test-datasets/raw/main/phylorthology/Saccharomyces_cerevisiae-test-proteome.fasta,Opisthokonta,ascomycota_odb10,eukaryota_odb10,proteins,true,true
+Loa_loa,https://github.com/Arcadia-Science/test-datasets/raw/main/phylorthology/Loa_loa-test-proteome.fasta,Opisthokonta,nematoda_odb10,eukaryota_odb10,proteins,true,true
