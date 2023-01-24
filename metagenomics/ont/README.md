@@ -2,7 +2,7 @@
 
 ## Information & Purpose
 
-These are two subsampled Nanopore metagenomes sequenced from two different cheeses that were sampled at 8 and 12 weeks, respectively. The metagenomes were sequenced using the Nanopore kit [].
+These are two subsampled Nanopore metagenomes sequenced from two different cheeses that were sampled at 8 and 12 weeks, respectively. The metagenomes were sequenced using the Nanopore kit for genomic DNA by ligation kit sqk lsk112.
 
 ## Test Dataset Generation
 
