@@ -1,0 +1,12 @@
+{
+  "input": "https://github.com/Arcadia-Science/test-datasets/tree/main/phylorthology/tsar/downsampled_proteomes/tsar_downsamp_test_samplesheet.csv",
+  "outdir": "results-downsamp-tsar-test",
+  "mcl_inflation": "1.0,2.0,3.0,4.0,5.0",
+  "min_num_spp_per_og": "4",
+  "min_num_grp_per_og": "2",
+  "max_copy_num_spp_tree": "3",
+  "max_copy_num_gene_trees": "5",
+  "download_annots": "all",
+  "tree_model": "LG+F+G4",
+  "tree_model_pmsf": "LG+C40+F+G4"
+}

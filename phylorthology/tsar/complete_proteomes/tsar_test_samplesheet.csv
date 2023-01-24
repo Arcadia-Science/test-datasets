@@ -1,0 +1,7 @@
+species,file,taxonomy,shallow,broad,mode,uniprot,mcl_test
+Tetrahymena_thermophila,https://github.com/Arcadia-Science/test-datasets/tree/main/phylorthology/tsar/complete_proteomes/Tetrahymena_thermophila.fasta,Alveolata,alveolata_odb10,eukaryota_odb10,proteins,true,true
+Amoebophrya_sp_A120,https://github.com/Arcadia-Science/test-datasets/tree/main/phylorthology/tsar/complete_proteomes/Amoebophrya_sp_A120.fasta,Alveolata,alveolata_odb10,eukaryota_odb10,proteins,true,true
+Plasmodiophora_brassicae,https://github.com/Arcadia-Science/test-datasets/tree/main/phylorthology/tsar/complete_proteomes/Plasmodiophora_brassicae.fasta,Rhizaria,eukaryota_odb10,eukaryota_odb10,proteins,true,true
+Aureococcus_anophagefferens,https://github.com/Arcadia-Science/test-datasets/tree/main/phylorthology/tsar/complete_proteomes/Aureococcus_anophagefferens.fasta,Stramenopiles,stramenopiles_odb10,eukaryota_odb10,proteins,true,true
+Cafeteria_burkhardae,https://github.com/Arcadia-Science/test-datasets/tree/main/phylorthology/tsar/complete_proteomes/Cafeteria_burkhardae.fasta,Stramenopiles,stramenopiles_odb10,eukaryota_odb10,proteins,true,true
+Telonema_subtile,https://github.com/Arcadia-Science/test-datasets/tree/main/phylorthology/tsar/complete_proteomes/EP00656_Telonema_subtile.fasta,Telonemia,eukaryota_odb10,eukaryota_odb10,proteins,false,false
