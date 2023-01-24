@@ -52,7 +52,7 @@ contig_1011	3087	16
 contig_1012	11436	11
 ```
 
-### Retrieve Corresponding Reads that makeup candidate contigs
+### Retrieve Corresponding Reads that make up candidate contigs
 There are ~120 contigs that meet this criteria. Create a list of those contigs with `samtools idxstats oma_mapping.bam | awk '{ if ($3 >=2 && $3 <=5) print $1 }' > oma_contigs.txt`. Then pass the list of contigs to `samtools view` to create a subset BAM file of just the reads that map to those contigs with `cat oma_contigs.txt | tr "\n" " " | xargs samtools view -bh oma_mapping.bam > oma_subset_reads.bam`.
 
 Then convert the BAM file to fastq for the subsetted reads with `samtools bam2fq oma_subset_reads.bam > oma_subset_reads.fq`. For this example, the resulting fastq file has 372 reads and is ~4MB in size so this should suffice as a test dataset.
