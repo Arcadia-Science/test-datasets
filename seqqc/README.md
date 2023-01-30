@@ -8,7 +8,7 @@ We selected this strain because it is present in the [seqqc contamination detect
 We also selected a mix of long read, short read, paired end, and single end data to test the pipeline with.
 In general, we recommend that the seqqc pipeline be run with with only one chemistry (either all short reads or all long reads) for a given run as this will produce the best visualizations, but combining these is useful for testing the pipeline with one test run.
 
-## Test dataset generation
+## Test data set generation
 
 We downloaded FASTQ files from the European Nucleotide Archive and then subsampled using the code below.
 
@@ -34,6 +34,13 @@ done
 gunzip -c SRR11550236_1.fastq.gz | head -n 4000 | gzip > SRR11550236_1_1k.fq.gz
 ```
 
-## Full-sized dataset
+## Full-sized test data sets
 
-The download code above (`curl -JLO ...`) records how to obtain the full-sized FASTQ files.
+This folder contains five full-sized test data sets.
+Below we provide a description of each.
+Each data set is specified in a CSV file.
+The links to the full-sized files are recorded within the CSV file and can be used to download the files using `curl` (see commands above).
+The Nextflow pipeline seqqc downloads the data sets automatically using the sample sheets as input.
+
+* [`samplesheet_full.csv`](./samplesheet_full.csv):
+* [`samplesheet_illumina.csv`](./samplesheet_illumina.csv):
