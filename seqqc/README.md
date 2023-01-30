@@ -37,7 +37,11 @@ gunzip -c SRR11550236_1.fastq.gz | head -n 4000 | gzip > SRR11550236_1_1k.fq.gz
 ## Full-sized test data sets
 
 This folder contains five full-sized test data sets.
-Below we provide a description of each.
+These data sets represent different read lengths, paired endedness, and sequencing chemistries.
+The data sets are designed to be automatically run when pull requests are made from the `dev` branch to the `master` branch in the seqqc pipeline.
+This makes sure that the pipeline runs successfully in a variety of settings and produces example reports.
+
+Below we provide a description of each data set.
 Each data set is specified in a CSV file.
 The links to the full-sized files are recorded within the CSV file and can be used to download the files using `curl` (see commands above).
 The Nextflow pipeline seqqc downloads the data sets automatically using the sample sheets as input.
