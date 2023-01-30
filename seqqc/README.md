@@ -42,8 +42,8 @@ Each data set is specified in a CSV file.
 The links to the full-sized files are recorded within the CSV file and can be used to download the files using `curl` (see commands above).
 The Nextflow pipeline seqqc downloads the data sets automatically using the sample sheets as input.
 
-* [`samplesheet_full.csv`](./samplesheet_full.csv):
-* [`samplesheet_illumina.csv`](./samplesheet_illumina.csv):
-* [`samplesheet_hifi.csv`](./samplesheet_hifi.csv):
-* [`samplesheet_isoseq.csv`](./samplesheet_isoseq.csv):
-* [`samplesheet_nanopore.csv`](./samplesheet_nanopore.csv): 
+* [`samplesheet_full.csv`](./samplesheet_full.csv): the full FASTQ files for the `test` data set, described above.
+* [`samplesheet_illumina.csv`](./samplesheet_illumina.csv): Illumina sequencing from [PRJEB57452](https://www.ebi.ac.uk/ena/browser/view/PRJEB57452). The study includes 11 paired-end metagenomes, each of which represents a cheese microbiome.
+* [`samplesheet_hifi.csv`](./samplesheet_hifi.csv): PacBio Hifi sequencing from [PRJNA909772](https://www.ebi.ac.uk/ena/browser/view/PRJNA909772). Three of the five single end files were selected to include in the test data set. Each represents whole genome sequencing of the barn swallow (*Hirundo rustica*).
+* [`samplesheet_isoseq.csv`](./samplesheet_isoseq.csv): PacBio Isoseq sequencing from [PRJNA834823](https://www.ebi.ac.uk/ena/browser/view/PRJNA834823). The study includes 1 long-read transcriptome from the salivary glands of 10 adult female lone star ticks (*Amblyomma americanum*).
+* [`samplesheet_nanopore.csv`](./samplesheet_nanopore.csv): Nanopore sequencing from [PRJEB58160](https://www.ebi.ac.uk/ena/browser/view/PRJEB58160). Six of 15 single end files were selected to include in the test data set. Each represents metagenome sequencing of cheese microbial communities.
