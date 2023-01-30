@@ -44,3 +44,6 @@ The Nextflow pipeline seqqc downloads the data sets automatically using the samp
 
 * [`samplesheet_full.csv`](./samplesheet_full.csv):
 * [`samplesheet_illumina.csv`](./samplesheet_illumina.csv):
+* [`samplesheet_hifi.csv`](./samplesheet_hifi.csv):
+* [`samplesheet_isoseq.csv`](./samplesheet_isoseq.csv):
+* [`samplesheet_nanopore.csv`](./samplesheet_nanopore.csv): 
