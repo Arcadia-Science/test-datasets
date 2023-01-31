@@ -1,0 +1,4 @@
+sample,fastq_1,fastq_2
+SRR22588217,https://ftp.sra.ebi.ac.uk/vol1/fastq/SRR225/017/SRR22588217/SRR22588217_subreads.fastq.gz,
+SRR22588215,https://ftp.sra.ebi.ac.uk/vol1/fastq/SRR225/015/SRR22588215/SRR22588215_subreads.fastq.gz,
+SRR22588214,https://ftp.sra.ebi.ac.uk/vol1/fastq/SRR225/014/SRR22588214/SRR22588214_subreads.fastq.gz,
