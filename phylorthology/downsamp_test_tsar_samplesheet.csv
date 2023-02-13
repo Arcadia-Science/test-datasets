@@ -1,0 +1,7 @@
+species,file,taxonomy,shallow_db,broad_db,mode,uniprot,mcl_test
+Tetrahymena_thermophila,/home/ubuntu/environment/github/test-datasets/phylorthology/tsar/downsampled_proteomes/Tetrahymena_thermophila.fasta,Alveolata,alveolata_odb10,eukaryota_odb10,proteins,true,false
+Amoebophrya_sp_A120,/home/ubuntu/environment/github/test-datasets/phylorthology/tsar/downsampled_proteomes/Amoebophrya_sp_A120.fasta,Alveolata,alveolata_odb10,eukaryota_odb10,proteins,true,true
+Plasmodiophora_brassicae,/home/ubuntu/environment/github/test-datasets/phylorthology/tsar/downsampled_proteomes/Plasmodiophora_brassicae.fasta,Rhizaria,alveolata_odb10,eukaryota_odb10,proteins,true,true
+Aureococcus_anophagefferens,/home/ubuntu/environment/github/test-datasets/phylorthology/tsar/downsampled_proteomes/Aureococcus_anophagefferens.fasta,Stramenopiles,stramenopiles_odb10,eukaryota_odb10,proteins,true,false
+Cafeteria_burkhardae,/home/ubuntu/environment/github/test-datasets/phylorthology/tsar/downsampled_proteomes/Cafeteria_burkhardae.fasta,Stramenopiles,stramenopiles_odb10,eukaryota_odb10,proteins,true,true
+Telonema_subtile,/home/ubuntu/environment/github/test-datasets/phylorthology/tsar/downsampled_proteomes/EP00656_Telonema_subtile.fasta,Telonemia,alveolata_odb10,eukaryota_odb10,proteins,false,true
