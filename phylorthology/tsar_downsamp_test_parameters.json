@@ -1,5 +1,5 @@
 {
-  "input": "https://github.com/Arcadia-Science/tsar-phylorthology/blob/main/tsar-downsamp-test/tsar_downsamp_test_samplesheet.csv",
+  "input": "https://github.com/Arcadia-Science/tsar-phylorthology/raw/main/tsar-downsamp-test/tsar_downsamp_test_samplesheet.csv",
   "outdir": "results-tsar-downsamp-test",
   "mcl_inflation": "1.0,2.0,3.0,4.0,5.0",
   "min_num_spp_per_og": 4,
