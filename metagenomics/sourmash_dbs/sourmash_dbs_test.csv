@@ -1,0 +1,2 @@
+database,database_path,lineage_path
+viral,https://github.com/Arcadia-Science/test-datasets/raw/main/metagenomics/sourmash_dbs/genbank-2022.03-viral-k31.zip,https://github.com/Arcadia-Science/test-datasets/raw/main/metagenomics/sourmash_dbs/genbank-2022.03-viral.lineages.csv
