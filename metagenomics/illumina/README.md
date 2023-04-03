@@ -13,10 +13,6 @@ seqtk sample -s100 comm_1_CSFP220022072-1a_HN2W7DSX3_L1_2.fq 10000 > comm_1_subs
 seqtk sample -s100 vir_1_combined_1.fq 10000 > vir_1_subsampled_1.fq
 seqtk sample -s100 vir_1_combined_2.fq 10000 > vir_1_subsampled_2.fq
 
-gzip *
-
 ```
 
-## Full-Sized Dataset
-
-<!-- TODO Add information about where the full-sized dataset is once it is published through pubpub/NCBI -->
+Then these files were combined with the subset fastq files used in the `seqqc` pipeline which contain E. coli for picking up contamination. This is used to run `sourmash gather` against the `seqqc` contam database and ensures it will pick up something while simulating the subset metagenomic reads for the rest of the pipeline. 

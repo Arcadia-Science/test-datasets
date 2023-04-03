@@ -1,3 +1,3 @@
 sample,fastq_1,fastq_2
-om,https://github.com/Arcadia-Science/test-datasets/raw/main/metagenomics/ont/om_subset_reads.fq.gz,
-el,https://github.com/Arcadia-Science/test-datasets/raw/main/metagenomics/ont/el_subset_reads.fq.gz,
+om,https://github.com/Arcadia-Science/test-datasets/raw/main/metagenomics/ont/om_contam_subset_reads.fq.gz,
+el,https://github.com/Arcadia-Science/test-datasets/raw/main/metagenomics/ont/el_contam_subset_reads.fq.gz,
