@@ -57,3 +57,6 @@ There are ~120 contigs that meet this criteria. Create a list of those contigs w
 Then convert the BAM file to fastq for the subsetted reads with `samtools bam2fq om_subset_reads.bam > om_subset_reads.fq`. For this example, the resulting fastq file has 372 reads and is ~4MB in size so this should suffice as a test dataset.
 
 This process was done for both the om8week and el12week samples. The fastqs were gzipped and are listed in the test samplesheet CSV.
+
+# Combine with E. coli contaminated reads
+These subset metagenomes were then combined with Nanopore sequencing reads of E. coli DSM30083 from accession SRR8413645. This is done to ensure that there is something in the test files that will hit against the test `sourmash gather` database which is the contamination database used in our `seqqc` workflow. 
