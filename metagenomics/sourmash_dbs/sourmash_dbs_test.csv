@@ -1,0 +1,3 @@
+﻿database_path,lineage_path
+https://github.com/Arcadia-Science/test-datasets/raw/main/metagenomics/sourmash_dbs/GCF_001457635.1.db.zip,https://github.com/Arcadia-Science/test-datasets/raw/main/metagenomics/sourmash_dbs/GCF_001457635.1.taxonomy.csv
+https://github.com/Arcadia-Science/test-datasets/raw/main/metagenomics/sourmash_dbs/GCF_003697165.2.db.zip,https://github.com/Arcadia-Science/test-datasets/raw/main/metagenomics/sourmash_dbs/GCF_003697165.2.taxonomy.csv
