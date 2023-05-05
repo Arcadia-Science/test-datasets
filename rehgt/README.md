@@ -51,6 +51,8 @@ I confirmed that this set of test files produces HGT candidates, although they a
 
 The eggnog database files are from the eggnog [emapper GitHub repository](https://github.com/eggnogdb/eggnog-mapper) (documented in [this issue](https://github.com/eggnogdb/eggnog-mapper/issues/140)).
 
+The hmm file is from [VOGdb](https://vogdb.org/).
+
 Potential improvements for the future:
 1. Adding genera that have multiple genomes
 2. Adding more than one genera
