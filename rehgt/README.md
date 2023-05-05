@@ -47,9 +47,12 @@ dbWriteTable(conn = db, name = "nr_cluster_taxid_table", value = "~/github/2023-
 dbDisconnect(db)
 ```
 
-
 I confirmed that this set of test files produces HGT candidates, although they are **completely insensible and biologically wrong**, but that isn't particularly important for this test data set, whose purpose is to make sure the workflow runs.
+
+The eggnog database files are from the eggnog [emapper GitHub repository](https://github.com/eggnogdb/eggnog-mapper) (documented in [this issue](https://github.com/eggnogdb/eggnog-mapper/issues/140)).
 
 Potential improvements for the future:
 1. Adding genera that have multiple genomes
 2. Adding more than one genera
+
+
