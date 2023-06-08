@@ -1,0 +1,3 @@
+sample,fastq_1,fastq_2
+ecoli_k12,https://github.com/Arcadia-Science/test-datasets/raw/main/reads2genome/pacbio/e_coli_k12_2008_subsampled.fq.gz,
+ecoli_H10407,https://github.com/Arcadia-Science/test-datasets/raw/main/reads2genome/pacbio/e_coli_H10407_2007_subsampled.fq.gz,
